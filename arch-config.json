@@ -2,11 +2,11 @@
   {
     "app_name": "youtube",
     "source": "morphe",
-    "arches": ["arm64-v8a", "armeabi-v7a", "universal"]
+    "arches": ["arm64-v8a", "armeabi-v7a"]
   },
   {
     "app_name": "youtube-music",
-    "source": "rookie",
+    "source": "morphe",
     "arches": ["arm64-v8a", "armeabi-v7a"]
   }
 ]
