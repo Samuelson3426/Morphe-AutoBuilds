@@ -5,7 +5,7 @@
     "arches": ["arm64-v8a", "armeabi-v7a", "universal"]
   },
   {
-    "app_name": "google-photos",
+    "app_name": "youtube-music",
     "source": "rookie",
     "arches": ["arm64-v8a", "armeabi-v7a"]
   }
